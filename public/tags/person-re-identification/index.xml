@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Person Re-Identification | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/person-re-identification/</link>
+      <atom:link href="http://localhost:1313/tags/person-re-identification/index.xml" rel="self" type="application/rss+xml" />
+    <description>Person Re-Identification</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jul 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Person Re-Identification</title>
+      <link>http://localhost:1313/tags/person-re-identification/</link>
+    </image>
+    
+    <item>
+      <title>Learning to Know Where to See: A Visibility-Aware Approach for Occluded Person Re-identification</title>
+      <link>http://localhost:1313/publication/2021-yang-learning/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-yang-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-temporal graph convolutional network for video-based person re-identification</title>
+      <link>http://localhost:1313/publication/2020-yang-spatial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-yang-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Person Re-Identification by Camera Correlation Aware Feature Augmentation</title>
+      <link>http://localhost:1313/publication/2018-chen-person/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2018-chen-person/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An asymmetric distance model for cross-view feature mapping in person reidentification</title>
+      <link>http://localhost:1313/publication/2016-chen-asymmetric/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2016-chen-asymmetric/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An enhanced deep feature representation for person re-identification</title>
+      <link>http://localhost:1313/publication/2016-wu-enhanced/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2016-wu-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-view Transformation based Sparse Reconstruction for Person Re-identification</title>
+      <link>http://localhost:1313/publication/2016-he-cross/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2016-he-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mirror representation for modeling view-specific transform in person re-identification</title>
+      <link>http://localhost:1313/publication/2015-chen-mirror/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2015-chen-mirror/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

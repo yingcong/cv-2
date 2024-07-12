@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Face Manipulation | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/face-manipulation/</link>
+      <atom:link href="http://localhost:1313/tags/face-manipulation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Face Manipulation</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 19 Jun 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Face Manipulation</title>
+      <link>http://localhost:1313/tags/face-manipulation/</link>
+    </image>
+    
+    <item>
+      <title>Photo-Realistic Out-of-domain GAN inversion via Invertibility Decomposition</title>
+      <link>http://localhost:1313/publication/2023-xin-oodgan/</link>
+      <pubDate>Mon, 19 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-xin-oodgan/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SC-GAN: Image Synthesis via Semantic Composition</title>
+      <link>http://localhost:1313/publication/2021-wang-sc/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-wang-sc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adaptive Image-to-image Translation</title>
+      <link>http://localhost:1313/publication/2020-chen-domain/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-chen-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homomorphic Interpolation Network for Unpaired Image-to-image Translation</title>
+      <link>http://localhost:1313/publication/2020-chen-homomorphic/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-chen-homomorphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particularity Beyond Commonality: Unpaired Identity Transfer with Multiple References</title>
+      <link>http://localhost:1313/publication/2020-wu-particularity/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-wu-particularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homomorphic latent space interpolation for unpaired image-to-image translation</title>
+      <link>http://localhost:1313/publication/2019-chen-homomorphic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019-chen-homomorphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic component decomposition for face attribute manipulation</title>
+      <link>http://localhost:1313/publication/2019-chen-semantic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019-chen-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>View Independent Generative Adversarial Network for Novel View Synthesis</title>
+      <link>http://localhost:1313/publication/2019-xu-view/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019-xu-view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facelet-bank for fast portrait manipulation</title>
+      <link>http://localhost:1313/publication/2018-chen-facelet/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2018-chen-facelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makeup-go: Blind reversion of portrait edit</title>
+      <link>http://localhost:1313/publication/2017-chen-makeup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2017-chen-makeup/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

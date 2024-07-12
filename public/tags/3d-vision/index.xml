@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>3D Vision | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/tags/3d-vision/</link>
+      <atom:link href="http://localhost:1313/tags/3d-vision/index.xml" rel="self" type="application/rss+xml" />
+    <description>3D Vision</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 10 Nov 2023 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>3D Vision</title>
+      <link>http://localhost:1313/tags/3d-vision/</link>
+    </image>
+    
+    <item>
+      <title>Rethinking Rendering in Generalizable Neural Surface Reconstruction: A Learning-based Solution</title>
+      <link>http://localhost:1313/publication/2023-liang-retr/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-liang-retr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection</title>
+      <link>http://localhost:1313/publication/2023-ge-refneus/</link>
+      <pubDate>Sun, 01 Oct 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-ge-refneus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field</title>
+      <link>http://localhost:1313/publication/2023-li-lift3d/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-li-lift3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Label Name is Mantra: Unifying Point Cloud Segmentation across Heterogeneous Datasets</title>
+      <link>http://localhost:1313/publication/2023-liang-label/</link>
+      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-liang-label/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering</title>
+      <link>http://localhost:1313/publication/2022-di-rc-mvsnet/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-di-rc-mvsnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Monocular 3D Object Detection by Multi-view Consistency</title>
+      <link>http://localhost:1313/publication/2022-lian-semi-supervised/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-lian-semi-supervised/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

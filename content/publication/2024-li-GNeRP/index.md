@@ -1,0 +1,18 @@
+---
+title: 'GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy
+  Polarization Priors'
+date: '2024-01-01'
+draft: false
+publishDate: '2024-07-12T07:10:19.530862Z'
+authors:
+- Yang Li
+- Ruizheng Wu
+- Jiyong Li
+- admin
+publication_types:
+- '1'
+abstract: ''
+featured: false
+publication: '*International Conference on Learning Representations (ICLR)*'
+---
+

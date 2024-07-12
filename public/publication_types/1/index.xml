@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | Hugo Academic CV Theme</title>
+    <link>http://localhost:1313/publication_types/1/</link>
+      <atom:link href="http://localhost:1313/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>1</title>
+      <link>http://localhost:1313/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>An Incremental Unified Framework for Small Defect Inspection</title>
+      <link>http://localhost:1313/publication/2024-tang-incremental/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-tang-incremental/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backdoor Contrastive Learning via Bi-level Trigger Optimization</title>
+      <link>http://localhost:1313/publication/2024-sun-backdoor/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-sun-backdoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bi-TTA: Bidirectional Test-Time Adapter for Remote Physiological Measurement</title>
+      <link>http://localhost:1313/publication/2024-li-bi/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-li-bi/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer Learning</title>
+      <link>http://localhost:1313/publication/2024-wang-bridging/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-wang-bridging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denoising Diffusion Step-aware Models</title>
+      <link>http://localhost:1313/publication/2024-yang-denoising/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-yang-denoising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors</title>
+      <link>http://localhost:1313/publication/2024-li-gnerp/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-li-gnerp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LoRA-Sparse: Low-Rank Approximation for Sparse Large Language Models</title>
+      <link>http://localhost:1313/publication/2024-song-lora/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-song-lora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching</title>
+      <link>http://localhost:1313/publication/2024-liang-luciddreamer/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-liang-luciddreamer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders</title>
+      <link>http://localhost:1313/publication/2024-lin-mtmamba/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-lin-mtmamba/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Text-Anchored Score Composition: Tackling Condition Misalignment in Text-to-Image Diffusion Models</title>
+      <link>http://localhost:1313/publication/2024-wang-text/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-wang-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Rethinking Rendering in Generalizable Neural Surface Reconstruction: A Learning-based Solution</title>
+      <link>http://localhost:1313/publication/2023-liang-retr/</link>
+      <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-liang-retr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lift3D: Synthesize 3D Training Data by Lifting 2D GAN to 3D Generative Radiance Field</title>
+      <link>http://localhost:1313/publication/2023-li-lift3d/</link>
+      <pubDate>Sun, 18 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-li-lift3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neuron Structure Modeling for Generalizable Remote Physiological Measurement</title>
+      <link>http://localhost:1313/publication/2023-lu-nestrppg/</link>
+      <pubDate>Tue, 13 Jun 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-lu-nestrppg/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DecoupleNet: Decoupled Network for Domain Adaptive Semantic Segmentation</title>
+      <link>http://localhost:1313/publication/2022-xin-decouplenet/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-xin-decouplenet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RC-MVSNet: Unsupervised Multi-View Stereo with Neural Rendering</title>
+      <link>http://localhost:1313/publication/2022-di-rc-mvsnet/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-di-rc-mvsnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semi-supervised Monocular 3D Object Detection by Multi-view Consistency</title>
+      <link>http://localhost:1313/publication/2022-lian-semi-supervised/</link>
+      <pubDate>Sun, 23 Oct 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-lian-semi-supervised/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Representation Compensation Networks for Continual Semantic Segmentation</title>
+      <link>http://localhost:1313/publication/2022-zhang-representation/</link>
+      <pubDate>Wed, 01 Jun 2022 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2022-zhang-representation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Know Where to See: A Visibility-Aware Approach for Occluded Person Re-identification</title>
+      <link>http://localhost:1313/publication/2021-yang-learning/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-yang-learning/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SC-GAN: Image Synthesis via Semantic Composition</title>
+      <link>http://localhost:1313/publication/2021-wang-sc/</link>
+      <pubDate>Thu, 01 Jul 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-wang-sc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Delving into Deep Imbalanced Regression</title>
+      <link>http://localhost:1313/publication/2021-yang-delving/</link>
+      <pubDate>Tue, 01 Jun 2021 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2021-yang-delving/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Attentive normalization for conditional image generation</title>
+      <link>http://localhost:1313/publication/2020-wang-attentive/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-wang-attentive/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Domain Adaptive Image-to-image Translation</title>
+      <link>http://localhost:1313/publication/2020-chen-domain/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-chen-domain/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Particularity Beyond Commonality: Unpaired Identity Transfer with Multiple References</title>
+      <link>http://localhost:1313/publication/2020-wu-particularity/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-wu-particularity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Spatial-temporal graph convolutional network for video-based person re-identification</title>
+      <link>http://localhost:1313/publication/2020-yang-spatial/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-yang-spatial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VCNet: A Robust Approach to Blind Image Inpainting</title>
+      <link>http://localhost:1313/publication/2020-wang-vcnet/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2020-wang-vcnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homomorphic latent space interpolation for unpaired image-to-image translation</title>
+      <link>http://localhost:1313/publication/2019-chen-homomorphic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019-chen-homomorphic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Semantic component decomposition for face attribute manipulation</title>
+      <link>http://localhost:1313/publication/2019-chen-semantic/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019-chen-semantic/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>View Independent Generative Adversarial Network for Novel View Synthesis</title>
+      <link>http://localhost:1313/publication/2019-xu-view/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2019-xu-view/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Facelet-bank for fast portrait manipulation</title>
+      <link>http://localhost:1313/publication/2018-chen-facelet/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2018-chen-facelet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Makeup-go: Blind reversion of portrait edit</title>
+      <link>http://localhost:1313/publication/2017-chen-makeup/</link>
+      <pubDate>Sun, 01 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2017-chen-makeup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>An enhanced deep feature representation for person re-identification</title>
+      <link>http://localhost:1313/publication/2016-wu-enhanced/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2016-wu-enhanced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cross-view Transformation based Sparse Reconstruction for Person Re-identification</title>
+      <link>http://localhost:1313/publication/2016-he-cross/</link>
+      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2016-he-cross/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Mirror representation for modeling view-specific transform in person re-identification</title>
+      <link>http://localhost:1313/publication/2015-chen-mirror/</link>
+      <pubDate>Thu, 01 Jan 2015 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2015-chen-mirror/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
