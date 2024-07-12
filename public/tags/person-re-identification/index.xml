@@ -21,14 +21,6 @@
     </item>
     
     <item>
-      <title>Spatial-temporal graph convolutional network for video-based person re-identification</title>
-      <link>http://localhost:1313/publication/2020-yang-spatial/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020-yang-spatial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Person Re-Identification by Camera Correlation Aware Feature Augmentation</title>
       <link>http://localhost:1313/publication/2018-chen-person/</link>
       <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
@@ -49,14 +41,6 @@
       <link>http://localhost:1313/publication/2016-wu-enhanced/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2016-wu-enhanced/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-view Transformation based Sparse Reconstruction for Person Re-identification</title>
-      <link>http://localhost:1313/publication/2016-he-cross/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2016-he-cross/</guid>
       <description></description>
     </item>
     

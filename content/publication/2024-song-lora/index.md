@@ -1,5 +1,5 @@
 ---
-title: 'LoRA-Sparse: Low-Rank Approximation for Sparse Large Language Models'
+title: 'Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs'
 date: '2024-01-01'
 draft: false
 publishDate: '2024-07-12T07:10:18.335148Z'

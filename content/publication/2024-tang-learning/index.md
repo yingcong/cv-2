@@ -15,5 +15,6 @@ abstract: ''
 featured: false
 publication: '*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
   Recognition (CVPR)*'
+url_code: https://github.com/jqtangust/FilmRemoval
 ---
 

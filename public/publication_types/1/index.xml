@@ -69,7 +69,7 @@
     </item>
     
     <item>
-      <title>LoRA-Sparse: Low-Rank Approximation for Sparse Large Language Models</title>
+      <title>Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs</title>
       <link>http://localhost:1313/publication/2024-song-lora/</link>
       <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2024-song-lora/</guid>
@@ -197,22 +197,6 @@
     </item>
     
     <item>
-      <title>Particularity Beyond Commonality: Unpaired Identity Transfer with Multiple References</title>
-      <link>http://localhost:1313/publication/2020-wu-particularity/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020-wu-particularity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Spatial-temporal graph convolutional network for video-based person re-identification</title>
-      <link>http://localhost:1313/publication/2020-yang-spatial/</link>
-      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2020-yang-spatial/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>VCNet: A Robust Approach to Blind Image Inpainting</title>
       <link>http://localhost:1313/publication/2020-wang-vcnet/</link>
       <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
@@ -265,14 +249,6 @@
       <link>http://localhost:1313/publication/2016-wu-enhanced/</link>
       <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2016-wu-enhanced/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cross-view Transformation based Sparse Reconstruction for Person Re-identification</title>
-      <link>http://localhost:1313/publication/2016-he-cross/</link>
-      <pubDate>Fri, 01 Jan 2016 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2016-he-cross/</guid>
       <description></description>
     </item>
     

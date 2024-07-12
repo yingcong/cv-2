@@ -14,5 +14,7 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*International Conference on Learning Representations (ICLR)*'
+url_code: https://github.com/yukiumi13/GNeRP
+url_project: https://yukiumi13.github.io/gnerp_page/
 ---
 

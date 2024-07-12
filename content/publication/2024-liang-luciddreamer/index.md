@@ -17,5 +17,6 @@ abstract: ''
 featured: false
 publication: '*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
   Recognition (CVPR), (**Spotlight**, Top 2.81\%)*'
+url_code: https://github.com/EnVision-Research/LucidDreamer
 ---
 
