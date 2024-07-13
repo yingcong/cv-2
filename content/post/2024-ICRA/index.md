@@ -1,7 +1,7 @@
 ---
 title: "We win the 1st Place in RobotDrive Challenge (ICRA 2024)"
 summary: "Track-1: Robust BEV Detection (Xu Cao, Hao Lu and Ying-Cong Chen)"
-date: 2024-05-28
+date: 2024-05-13
 authors:
   - admin
 ---
