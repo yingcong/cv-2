@@ -34,6 +34,7 @@ profiles:
 interests:
   - Computer Vision
   - Generative Models
+  - AI+X
 
 # education:
 #   - area: PhD Artificial Intelligence
