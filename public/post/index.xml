@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts | Hugo Academic CV Theme</title>
+    <title>Blog | Hugo Academic CV Theme</title>
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
-    <description>Posts</description>
+    <description>Blog</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
-      <title>Posts</title>
+      <title>Blog</title>
       <link>http://localhost:1313/post/</link>
     </image>
     
@@ -38,6 +38,68 @@
 &lt;li&gt;Ying-Cong Chen, HKUST(GZ)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited Talk: International Conference on Applied Mathematics 2024</title>
+      <link>http://localhost:1313/post/2024-icam/</link>
+      <pubDate>Tue, 28 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-icam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>I am invited to give a Annual Progressive Report in China3DV</title>
+      <link>http://localhost:1313/post/2024-china3dv/</link>
+      <pubDate>Sun, 21 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-china3dv/</guid>
+      <description>&lt;p&gt;Please see this &lt;a href=&#34;3DGenAnnualReportChina3DV.pdf&#34;&gt;file&lt;/a&gt; for my slides.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Invited Talk: 2024年广州市国资并购联合会会员大会</title>
+      <link>http://localhost:1313/post/2024-haizhuforum/</link>
+      <pubDate>Thu, 28 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-haizhuforum/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://mp.weixin.qq.com/s/OHWt1H2xmct2lCX0lxIoIw&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;As an academic dedicated to the field of artificial intelligence, I continually seek opportunities to expand my horizons and deepen my understanding of the vast landscape of AI technologies. Recently, I had the privilege of attending and speaking at the 2024 Guangzhou Municipal State-Owned Enterprise M&amp;amp;A Association Members&amp;rsquo; Conference, an event that proved to be enlightening in more ways than one.&lt;/p&gt;
+&lt;h2 id=&#34;the-conference-experience&#34;&gt;The Conference Experience&lt;/h2&gt;
+&lt;p&gt;At the conference, I presented a report on the &amp;ldquo;Latest Developments in Vision Generation Models,&amp;rdquo; an emerging area that attracts great attention all over the world. The session was well-received, and it sparked engaging discussions with fellow experts and attendees. However, what stood out most during this event was not just the sharing of knowledge but also the invaluable interactions with professionals from the investment sector.&lt;/p&gt;
+&lt;p&gt;Conversing with investors, who are often at the forefront of funding and fostering technological innovations, provided me with a unique vantage point. Unlike academic or industrial perspectives, which are generally more focused on technological or application-specific details, the discussions I had were deeply rooted in a macro understanding of the AI landscape.&lt;/p&gt;
+&lt;p&gt;These interactions emphasized the importance of having a comprehensive grasp of the industry—from overarching trends to granular details—to make informed decisions and drive successful initiatives. It was a reminder that in AI, as in many fields, a holistic view combined with detailed expertise is crucial for true advancement and effective application.&lt;/p&gt;
+&lt;p&gt;The opportunity to exchange thoughts with leading figures in the investment community was a profound reminder of the interconnectedness of different sectors within the AI industry. It has inspired me to approach my research and projects with an even broader lens, considering not only the technical aspects but also the economic, social, and practical implications of AI technologies.&lt;/p&gt;
+&lt;p&gt;I am grateful for the insights gained and the connections made during the conference, and I look forward to incorporating these learnings into my future endeavors, further bridging the gap between academic research and real-world application.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>关于生成式模型及其社会影响的采访（广州日报）</title>
+      <link>http://localhost:1313/post/2024-gzdaily/</link>
+      <pubDate>Thu, 14 Mar 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-gzdaily/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://huacheng.gz-cmc.com/pages/2024/03/13/68fba5d89d34493080be2768345e96da.html&#34;&gt;News&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;近年来，生成式人工智能在AI技术应用中成为焦点，尤其是文本生成视频的大型模型Sora，在全球范围内激发了科技创新的热潮。香港科技大学（广州）的人工智能学域助理教授兼博士生导师陈颖聪，作为计算机视觉与机器学习学域的资深研究者，对文本生成视频技术的最新发展保持着高度关注。在广州的一次专访中，这位人工智能领域的专家分享了他对Sora模型以及文本生成视频技术前景的洞见。&lt;/p&gt;
+&lt;p&gt;陈颖聪教授表示，尽管Sora模型在理解物理规律方面仍有待完善，但作为一个世界模型的原型，它预示着通用人工智能（AGI）发展的重大进步。他进一步指出，文本生成视频技术除了将对视频编辑与生成相关应用造成直接影响外，也将为人工智能其他领域带来广泛影响。比如，与自动驾驶的结合，不仅能够在短时间内帮助自动驾驶模型掌握复杂场景下的应对策略，还有望解决自动驾驶领域的长期难题，为自动驾驶行业注入新活力。与3D资产生成结合，有望提升3D资产生成的质量与多样性。&lt;/p&gt;
+&lt;p&gt;Sora模型向“世界模型”迈进&lt;/p&gt;
+&lt;p&gt;展现学习客观规律的潜力&lt;/p&gt;
+&lt;p&gt;自Sora推出以来，它便受到业界的广泛关注。近期，陈颖聪教授也紧密跟踪其发展动态。他认为，Sora最引人注目的特质之一，便是其作为一个初步的“世界模型”或“世界模拟器”的潜能。这意味着，Sora仿佛通过观察了整个世界，从而对它形成了自己的理解，并能据此预测未来世界的某些发展趋势。例如，当一个孩子看到球落地后会弹起，尽管他可能不理解物理学中的弹力概念，但这并不妨碍他预测球下一次落地时还会弹起。同理，Sora通过分析至少数十亿张图片和上百万段视频数据，能够预测出一个球落地时的反弹高度，甚至是反弹次数。“这背后的神经网络隐含了客观世界的运作规则。它展现了理解、重构及模拟这个世界的可能性。”&lt;/p&gt;
+&lt;p&gt;陈颖聪教授指出，长期以来，机器与真实世界的互动成本极高，科学家们因此希望在虚拟世界中构建一个遵循现实世界物理规则的模型，以便于机器进行“试错”。Sora的研究方向展现了实现这一目标的希望。通过“观察”大量数据，Sora自然学会了掌握现实世界的基础规律。“它必须在有限的神经网络容量限制下对海量的图像与视频进行复现，这一过程中，Sora必须将其观察到的数据进行高效压缩。正是在这种高度压缩的过程中，模型能够提炼出世界的运作模式。通过所展示视频的三维一致性与时序合理性，我们有理由相信，那庞大的神经网络已经理解了客观世界的物理规律，尽管这些规律的具体位置和如何显式提取出来，未来仍需深入研究。”虽然Sora目前还不能精确模拟出真实世界中更复杂的因果关系，但它为生成式AI成为世界模拟器提供了一条非常有潜力的路径。通过学习如何合理生成视频，Sora揭示了其背后的客观规律，这种方法与传统的先编码规律后渲染模型的做法截然不同，未来有望从根本上颠覆人类研究和理解世界的范式。&lt;/p&gt;
+&lt;p&gt;Sora为自动驾驶领域带来革命性预测能力与长尾问题的解决方案&lt;/p&gt;
+&lt;p&gt;自从Sora面世以来，其在广泛的应用领域展现出的潜力让众多业界人士感到惊讶。陈颖聪教授认为，文生视频技术不仅能够直接应用于视频和动画制作、广告、游戏等与视频生成紧密相关的领域，还能为人工智能的其他许多领域带来革新性的思考，例如自动驾驶技术。&lt;/p&gt;
+&lt;p&gt;目前，自动驾驶技术的发展受制于一个关键问题：现有的自动驾驶模型主要基于车辆当前的感知结果来决定下一步动作，这种方式缺乏对未来复杂路况的有效预测，进而限制了系统提前预判未来情况的能力。Sora所具备的生成连续、合理视频序列的能力，展现了其在短期未来预测方面的潜力。若能有效利用这一特性，自动驾驶系统将能更加准确地进行预判性行为，显著提升车辆的安全性能。&lt;/p&gt;
+&lt;p&gt;“想象一下，如果我们能看到一分钟后的不同可能未来，这将使我们在应对复杂的驾驶环境时能够做出最优选择。这对于提升未来自动驾驶的安全性将是一个质的飞跃。而安全性无疑是自动驾驶技术发展的最大挑战。”陈颖聪教授如是说。&lt;/p&gt;
+&lt;p&gt;另一方面，陈颖聪教授指出，Sora还能在解决自动驾驶技术中的长尾问题上发挥作用。所谓的长尾问题，指的是一系列罕见的场景、极端情况以及难以预测的人类行为，这些问题一直是自动驾驶系统需要克服的难题之一。目前，该领域的人工智能技术主要通过收集实际道路数据来训练模型。然而，由于极端情况在现实道路中出现的频率极低，这导致数据的多样性和完整性受到限制，进而影响了模型的泛化能力和准确性。Sora的先进文本到视频生成模型，通过对其进行优化和训练，可以生成近乎真实的仿真数据，这不仅为自动驾驶模型的快速优化和迭代提供了可能，还能够主动生成长尾问题场景的数据，从根本上解决自动驾驶面临的长尾挑战，提高算法的可靠性，为自动驾驶技术的进一步优化和升级提供了坚实的保障。“这将有助于解决自动驾驶领域长期面临的一大难题。”&lt;/p&gt;
+&lt;p&gt;从文本生成视频到3D模型&lt;/p&gt;
+&lt;p&gt;生成式AI前景不可限量&lt;/p&gt;
+&lt;p&gt;陈颖聪教授说，生成式AI是这些年AI技术的应用热门方向，他和团队正在进行的一个重要研究就是文本生成3D模型。“这之所以成为生成式AI行业的热门话题，一个主要原因是它在各个领域和行业的广泛应用。”陈颖聪教授说，数字3D资产现在在我们的数字存在中占据着不可或缺的地位，可以实现全面的可视化以及与反映我们现实世界体验的复杂环境和对象的交互。过去设计师从概念提出到三维建模的完成，需要30-200小时的时间。而生成式AI非常有潜力将这件事情缩短到一天甚至数小时。而以Sora为代表的文生视频模型，未来则有望进一步提升3D资产生成的质量。&lt;/p&gt;
+&lt;p&gt;陈颖聪教授介绍说，人工智能生成三维数据存在诸多难题。难题之一是可学习的三维数据量小且不满足多样性要求。为解决这一问题，很多学者从二维图像中学习并生成三维数据。经过持续改良，他和团队搭建出的文本生成3D模型生成的三维模型分辨率更高，渲染效果更好，生成效率也有了显著提升。并且，生成的3D模型的渲染方式与传统计算机图形学有非常紧密的关系，且其生成结果可以直接在标准的图像软件中进行查看，生成的3D模型可以直接用于工业和设计用途。鉴于各方面优势，这种文本生成3D模型已经具备了产业应用能力。“我们的人工智能LucidDreamer模型，就是通过间隔分数匹配生成高保真文本，进而生成可直接使用的3D模型。”陈颖聪教授介绍说，如今，他和团队研发的文本生成3D模型技术可用于游戏开发、建筑设计、电影和动画制作、工业制造等领域。比如，在建筑设计领域，建筑设计师可以使用三维生成技术更快速地创建建筑模型和可视化效果图，提高工作效率和精确性。在电影和动画制作领域，可以使用三维生成技术创建逼真的三维场景和角色，并实现复杂的视觉效果。在虚拟现实（VR）领域，可以使用三维生成技术创建逼真的虚拟世界和角色，提高虚拟现实的真实感和沉浸感。在工业制造领域，制造商可以使用三维生成技术更快速地创建零部件和模具，提高生产效率，降低制造成本。&lt;/p&gt;
+&lt;p&gt;陈颖聪教授展望，随着Sora这类文本生成视频模型的崛起，未来3D资产的生成质量有望得到进一步提升。目前从Sora生成的视频已展现出卓越的三维一致性，他的团队正在致力于研究如何利用这一特性，更加精准地创造复杂的三维场景。“可以说，生成式AI的前景不可限量。”&lt;/p&gt;
+&lt;p&gt;文/广州日报·新花城记者：肖欢欢、张慧琪&lt;/p&gt;
+&lt;p&gt;图/广州日报·新花城记者：肖欢欢、张慧琪&lt;/p&gt;
+&lt;p&gt;视频/广州日报·新花城记者：肖欢欢、张慧琪&lt;/p&gt;
+&lt;p&gt;广州日报·新花城编辑 蔡凌跃&lt;/p&gt;
 </description>
     </item>
     

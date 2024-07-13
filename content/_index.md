@@ -57,7 +57,7 @@ sections:
       # Page type to display. E.g. post, talk, publication...
       page_type: post
       # Choose how many pages you would like to display (0 = all pages)
-      count: 0
+      count: 5
       # Filter on criteria
       filters:
         author: ""
@@ -78,6 +78,7 @@ sections:
       spacing:
         padding: [0, 0, 0, 0]
   - block: collection
+    id: publication
     content:
       title: Selected Publications
       count: 5
