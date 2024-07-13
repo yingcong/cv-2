@@ -9,7 +9,7 @@ authors:
 - Pengguang Chen
 - Yu Zhang
 - Shu Liu
-- Yingcong Chen
+- admin
 publication_types:
 - '1'
 abstract: ''
