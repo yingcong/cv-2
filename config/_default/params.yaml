@@ -61,3 +61,7 @@ features:
 
 publications:
   citation_style: 'APA'
+
+marketing:
+  analytics:
+    google_analytics: 'G-V3K7WT0WGY'
