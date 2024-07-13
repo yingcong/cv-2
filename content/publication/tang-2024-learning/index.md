@@ -1,14 +1,14 @@
 ---
 title: Learning to Remove Wrinkled Transparent Film with Polarized Prior
-date: '2024-06-17'
+date: '2024-06-01'
 draft: false
-publishDate: '2024-07-12T07:10:17.929928Z'
+publishDate: '2024-07-13T02:35:07.448841Z'
 authors:
 - Jiaqi Tang
 - Ruizheng Wu
 - Xiaogang Xu
 - Sixing Hu
-- admin
+- Ying-Cong Chen
 publication_types:
 - '1'
 abstract: ''

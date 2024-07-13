@@ -80,7 +80,7 @@ sections:
   - block: collection
     id: publication
     content:
-      title: Selected Publications
+      title: Recent Publications
       count: 5
       text: ""
       filters:

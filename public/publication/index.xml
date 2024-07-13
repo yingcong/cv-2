@@ -5,7 +5,7 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Selected Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Mon, 01 Jan 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Selected Publications</title>
@@ -15,79 +15,31 @@
     <item>
       <title>An Incremental Unified Framework for Small Defect Inspection</title>
       <link>http://localhost:1313/publication/2024-tang-incremental/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2024-tang-incremental/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Backdoor Contrastive Learning via Bi-level Trigger Optimization</title>
-      <link>http://localhost:1313/publication/2024-sun-backdoor/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-sun-backdoor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Bi-TTA: Bidirectional Test-Time Adapter for Remote Physiological Measurement</title>
       <link>http://localhost:1313/publication/2024-li-bi/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2024-li-bi/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer Learning</title>
-      <link>http://localhost:1313/publication/2024-wang-bridging/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-wang-bridging/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Defect Spectrum: A Granular Look of Large-scale Defect Datasets with Rich Semantics</title>
       <link>http://localhost:1313/publication/2024-yang-defect/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2024-yang-defect/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Denoising Diffusion Step-aware Models</title>
-      <link>http://localhost:1313/publication/2024-yang-denoising/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-yang-denoising/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors</title>
-      <link>http://localhost:1313/publication/2024-li-gnerp/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-li-gnerp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs</title>
-      <link>http://localhost:1313/publication/2024-song-lora/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-song-lora/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching</title>
-      <link>http://localhost:1313/publication/2024-liang-luciddreamer/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2024-liang-luciddreamer/</guid>
       <description></description>
     </item>
     
     <item>
       <title>MTMamba: Enhancing Multi-Task Dense Scene Understanding by Mamba-Based Decoders</title>
       <link>http://localhost:1313/publication/2024-lin-mtmamba/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2024-lin-mtmamba/</guid>
       <description></description>
     </item>
@@ -95,8 +47,64 @@
     <item>
       <title>Text-Anchored Score Composition: Tackling Condition Misalignment in Text-to-Image Diffusion Models</title>
       <link>http://localhost:1313/publication/2024-wang-text/</link>
-      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <pubDate>Sun, 29 Sep 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2024-wang-text/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer Learning</title>
+      <link>http://localhost:1313/publication/2024-wang-bridging/</link>
+      <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-wang-bridging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Low-Rank Approximation for Sparse Attention in Multi-Modal LLMs</title>
+      <link>http://localhost:1313/publication/2024-song-lora/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-song-lora/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LucidDreamer: Towards High-Fidelity Text-to-3D Generation via Interval Score Matching</title>
+      <link>http://localhost:1313/publication/2024-liang-luciddreamer/</link>
+      <pubDate>Mon, 17 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-liang-luciddreamer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Backdoor Contrastive Learning via Bi-level Trigger Optimization</title>
+      <link>http://localhost:1313/publication/2024-sun-backdoor/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-sun-backdoor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Denoising Diffusion Step-aware Models</title>
+      <link>http://localhost:1313/publication/2024-yang-denoising/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-yang-denoising/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy Polarization Priors</title>
+      <link>http://localhost:1313/publication/2024-li-gnerp/</link>
+      <pubDate>Tue, 07 May 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-li-gnerp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Learning to Remove Wrinkled Transparent Film with Polarized Prior</title>
+      <link>http://localhost:1313/publication/tang-2024-learning/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/tang-2024-learning/</guid>
       <description></description>
     </item>
     

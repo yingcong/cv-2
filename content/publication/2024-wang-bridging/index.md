@@ -1,7 +1,7 @@
 ---
 title: Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer
   Learning
-date: '2024-01-01'
+date: '2024-06-21'
 draft: false
 publishDate: '2024-07-12T07:10:20.881679Z'
 authors:

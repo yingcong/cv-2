@@ -1,6 +1,6 @@
 ---
 title: Denoising Diffusion Step-aware Models
-date: '2024-01-01'
+date: '2024-05-07'
 draft: false
 publishDate: '2024-07-12T07:10:18.897021Z'
 authors:

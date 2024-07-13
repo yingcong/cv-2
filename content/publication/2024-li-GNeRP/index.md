@@ -1,7 +1,7 @@
 ---
 title: 'GNeRP: Gaussian-guided Neural Reconstruction of Reflective Objects with Noisy
   Polarization Priors'
-date: '2024-01-01'
+date: '2024-05-07'
 draft: false
 publishDate: '2024-07-12T07:10:19.530862Z'
 authors:

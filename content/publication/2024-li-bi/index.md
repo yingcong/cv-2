@@ -1,6 +1,6 @@
 ---
 title: 'Bi-TTA: Bidirectional Test-Time Adapter for Remote Physiological Measurement'
-date: '2024-01-01'
+date: '2024-09-29'
 draft: false
 publishDate: '2024-07-12T08:25:32.041867Z'
 authors:

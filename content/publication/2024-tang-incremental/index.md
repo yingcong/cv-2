@@ -1,6 +1,6 @@
 ---
 title: An Incremental Unified Framework for Small Defect Inspection
-date: '2024-01-01'
+date: '2024-09-29'
 draft: false
 publishDate: '2024-07-12T08:25:32.555008Z'
 authors:
