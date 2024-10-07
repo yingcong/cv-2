@@ -5,12 +5,36 @@
     <link>http://localhost:1313/post/</link>
       <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 19 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 27 Sep 2024 00:00:00 +0000</lastBuildDate>
     <image>
       <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>http://localhost:1313/post/</link>
     </image>
+    
+    <item>
+      <title>Lotus Diffusion-based Visual Foundation Model for High-quality Dense Prediction is getting noticed </title>
+      <link>http://localhost:1313/post/2024-lotus/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-lotus/</guid>
+      <description>&lt;p&gt;We are excited to introduce Lotus, our newly developed diffusion-based visual foundation model that marks a significant leap forward in dense geometry prediction. Lotus achieves state-of-the-art performance in key tasks such as zero-shot depth and surface normal estimation, setting a new benchmark in computer vision.&lt;/p&gt;
+&lt;p&gt;We&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jing He, My student from HKUST(GZ)&lt;/li&gt;
+&lt;li&gt;Hao Dong Li, My student from HKUST(GZ)&lt;/li&gt;
+&lt;li&gt;Wei Yin, Collaborator from University of Adelaide&lt;/li&gt;
+&lt;li&gt;Yixun Liang, My student from HKUST(GZ)&lt;/li&gt;
+&lt;li&gt;Leheng Li, My student from HKUST(GZ)&lt;/li&gt;
+&lt;li&gt;Kaiqiang Zhou, Collaborator from Huawei&lt;/li&gt;
+&lt;li&gt;Hongbo Zhang, Collaborator from Huawei&lt;/li&gt;
+&lt;li&gt;Bingbing Liu, Collaborator from Huawei&lt;/li&gt;
+&lt;li&gt;Ying-Cong Chen, HKUST(GZ)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
     
     <item>
       <title>Our paper Luciddreamer is selected as Spotlight at CVPR 2024 and featured on Hugging Face Daily</title>

@@ -74,6 +74,38 @@
     </item>
     
     <item>
+      <title>Our arxiv paper &#34;Lotus Diffusion-based Visual Foundation Model for High-quality Dense Prediction&#34; is getting noticed </title>
+      <link>http://localhost:1313/post/2024-lotus/</link>
+      <pubDate>Fri, 27 Sep 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/post/2024-lotus/</guid>
+      <description>&lt;p&gt;We are excited to introduce Lotus, our newly developed diffusion-based visual foundation model that marks a significant leap forward in dense geometry prediction. Lotus achieves state-of-the-art performance in key tasks such as zero-shot depth and surface normal estimation, setting a new benchmark in computer vision.&lt;/p&gt;
+&lt;p&gt;Dense prediction tasks, such as zero-shot depth and surface normal estimation, require precise pixel-level predictions, making them challenging to optimize with traditional methods. Our work delves deeply into the adaptation of diffusion models, which have primarily been used for image generation, to dense prediction tasks. Through our comprehensive analysis, we have identified and resolved several key challenges that arise when applying these models to dense prediction scenarios.&lt;/p&gt;
+&lt;p&gt;Key Findings:&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Noise Prediction vs. Direct Annotation Prediction&lt;/strong&gt;: We discovered that the standard parameterization used in diffusion models—predicting noise—introduces significant variance, which propagates through the iterative process and degrades prediction quality. Instead, we propose training Lotus to directly predict annotations, which mitigates this variance and results in more stable and accurate outputs.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Single-Step Diffusion Process&lt;/strong&gt;: Traditional diffusion models rely on multi-step processes, which are not only computationally intensive but also prone to error accumulation. Our experiments show that a single-step diffusion formulation is not only simpler but also leads to better performance, especially when training data is limited. This finding significantly improves the efficiency of Lotus, making it hundreds of times faster than existing models.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Detail Preserver&lt;/strong&gt;: While adapting diffusion models for dense prediction, we observed that models tend to lose their ability to generate fine details, especially in areas with complex structures. To address this, we developed a novel &amp;ldquo;detail preserver&amp;rdquo; strategy that ensures high accuracy in detail-rich regions, preserving the fidelity of predictions without compromising efficiency.&lt;/p&gt;
+&lt;p&gt;By addressing these key challenges and thoroughly validating our design choices, Lotus achieves state-of-the-art (SoTA) performance in zero-shot depth and surface normal estimation across a variety of datasets, with minimal training data. This systematic analysis has allowed us to develop a powerful and efficient model that not only excels in dense prediction tasks but also enables a wide range of applications, including joint estimation and 3D reconstruction from single or multiple views.&lt;/p&gt;
+&lt;p&gt;This work is selected as the daily paper on Huggng faces upon released.
+&lt;img src=&#34;dailypaper.jpg&#34; alt=&#34;Alt text&#34;&gt;&lt;/p&gt;
+&lt;p&gt;For more information, please visit  &lt;a href=&#34;https://github.com/EnVision-Research/Lotus&#34;&gt;EnVision-Research GitHub repository&lt;/a&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;p&gt;&lt;strong&gt;Authors:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;Jing He, My student from HKUST(GZ)&lt;/li&gt;
+&lt;li&gt;Hao Dong Li, My student from HKUST(GZ)&lt;/li&gt;
+&lt;li&gt;Wei Yin, Collaborator from University of Adelaide&lt;/li&gt;
+&lt;li&gt;Yixun Liang, My student from HKUST(GZ)&lt;/li&gt;
+&lt;li&gt;Leheng Li, My student from HKUST(GZ)&lt;/li&gt;
+&lt;li&gt;Kaiqiang Zhou, Collaborator from Huawei&lt;/li&gt;
+&lt;li&gt;Hongbo Zhang, Collaborator from Huawei&lt;/li&gt;
+&lt;li&gt;Bingbing Liu, Collaborator from Huawei&lt;/li&gt;
+&lt;li&gt;Ying-Cong Chen, HKUST(GZ)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Bridging Data Gaps in Diffusion Models with Adversarial Noise-Based Transfer Learning</title>
       <link>http://localhost:1313/publication/2024-wang-bridging/</link>
       <pubDate>Fri, 21 Jun 2024 00:00:00 +0000</pubDate>
@@ -502,7 +534,7 @@
 
 
 
-&lt;div id=&#34;chart-985764213&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-912435678&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -520,7 +552,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-985764213&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-912435678&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
