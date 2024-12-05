@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Playground | Ying-Cong Chen</title>
+    <link>http://localhost:1313/demos/</link>
+      <atom:link href="http://localhost:1313/demos/index.xml" rel="self" type="application/rss+xml" />
+    <description>Playground</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <title>Playground</title>
+      <link>http://localhost:1313/demos/</link>
+    </image>
+    
+    <item>
+      <title>Depth Prediction</title>
+      <link>http://localhost:1313/demos/lotus-depth/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/demos/lotus-depth/</guid>
+      <description>&lt;script
+	type=&#34;module&#34;
+	src=&#34;https://gradio.s3-us-west-2.amazonaws.com/4.44.0/gradio.js&#34;
+&gt;&lt;/script&gt;
+&lt;p&gt;&lt;gradio-app src=&#34;https://haodongli-lotus-depth.hf.space&#34;&gt;&lt;/gradio-app&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Motion Inversion</title>
+      <link>http://localhost:1313/demos/motioninversion/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/demos/motioninversion/</guid>
+      <description>&lt;script
+	type=&#34;module&#34;
+	src=&#34;https://gradio.s3-us-west-2.amazonaws.com/5.0.1/gradio.js&#34;
+&gt;&lt;/script&gt;
+&lt;p&gt;&lt;gradio-app src=&#34;https://ziyangmai-motioninversion.hf.space&#34;&gt;&lt;/gradio-app&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Normal Prediction</title>
+      <link>http://localhost:1313/demos/lotus-normal/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/demos/lotus-normal/</guid>
+      <description>&lt;script
+	type=&#34;module&#34;
+	src=&#34;https://gradio.s3-us-west-2.amazonaws.com/4.44.0/gradio.js&#34;
+&gt;&lt;/script&gt;
+&lt;p&gt;&lt;gradio-app src=&#34;https://haodongli-lotus-normal.hf.space&#34;&gt;&lt;/gradio-app&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
