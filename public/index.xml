@@ -34,6 +34,19 @@
     </item>
     
     <item>
+      <title>Transpixar</title>
+      <link>http://localhost:1313/demos/transpixar/</link>
+      <pubDate>Thu, 09 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/demos/transpixar/</guid>
+      <description>&lt;script
+	type=&#34;module&#34;
+	src=&#34;https://gradio.s3-us-west-2.amazonaws.com/5.10.0/gradio.js&#34;
+&gt;&lt;/script&gt;
+&lt;p&gt;&lt;gradio-app src=&#34;https://wileewang-transpixar.hf.space&#34;&gt;&lt;/gradio-app&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>Depth Prediction</title>
       <link>http://localhost:1313/demos/lotus-depth/</link>
       <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
@@ -574,7 +587,7 @@
 
 
 
-&lt;div id=&#34;chart-419325786&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-436891275&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   async function fetchChartJSON() {
     console.debug(&#39;Hugo Blox fetching chart JSON...&#39;)
@@ -592,7 +605,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-419325786&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-436891275&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
