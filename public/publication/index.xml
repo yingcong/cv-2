@@ -5,12 +5,76 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Selected Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 29 Sep 2024 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
+      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
       <title>Selected Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation</title>
+      <link>http://localhost:1313/publication/2025-he-disenvisioner/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-he-disenvisioner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Kiss3DGen: Repurposing Image Diffusion Models for 3D Asset Generation</title>
+      <link>http://localhost:1313/publication/2025-lin-kiss3dgen/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-lin-kiss3dgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Lotus: Diffusion-based visual foundation model for high-quality dense prediction</title>
+      <link>http://localhost:1313/publication/2025-he-lotus/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-he-lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POSTA: A Go-to Framework for Customized Artistic Poster Generation</title>
+      <link>http://localhost:1313/publication/2025-chen-posta/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-chen-posta/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RectifiedHR: Enable Efficient High-Resolution Image Generation via Energy Rectification</title>
+      <link>http://localhost:1313/publication/2025-yang-rectifiedhr/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-yang-rectifiedhr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SURGEON: Memory-Adaptive Fully Test-Time Adaptation via Dynamic Activation Sparsity</title>
+      <link>http://localhost:1313/publication/2025-ma-surgeon/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ma-surgeon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TransPixeler: Advancing Text-to-Video Generation with Transparency</title>
+      <link>http://localhost:1313/publication/2025-wang-transpixeler/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-wang-transpixeler/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream Diffusion</title>
+      <link>http://localhost:1313/publication/2025-chen-unirenderer/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-chen-unirenderer/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>An Incremental Unified Framework for Small Defect Inspection</title>
