@@ -91,17 +91,17 @@ sections:
     design:
       view: citation
 
-  - block: collection
-    id: demo
-    content:
-      title: Playground
-      filters:
-        folders:
-          - demos
-      count: 2
-    design:
-      view: article-grid
-      columns: 2
+  # - block: collection
+  #   id: demo
+  #   content:
+  #     title: Playground
+  #     filters:
+  #       folders:
+  #         - demos
+  #     count: 2
+  #   design:
+  #     view: article-grid
+  #     columns: 2
 
   # - block: collection
   #   id: talks
