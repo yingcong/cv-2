@@ -5,12 +5,60 @@
     <link>http://localhost:1313/publication_types/2/</link>
       <atom:link href="http://localhost:1313/publication_types/2/index.xml" rel="self" type="application/rss+xml" />
     <description>2</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Oct 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 01 Jan 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>2</title>
       <link>http://localhost:1313/publication_types/2/</link>
     </image>
+    
+    <item>
+      <title>Dual-balancing for multi-task learning</title>
+      <link>http://localhost:1313/publication/2026-lin-dualbalancing/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2026-lin-dualbalancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DivPro: diverse protein sequence design with direct structure recovery guidance</title>
+      <link>http://localhost:1313/publication/2025-zhou-divpro/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-zhou-divpro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Large Language Models for Transforming Healthcare: A Perspective on DeepSeek‐R1</title>
+      <link>http://localhost:1313/publication/2025-zhu-large/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-zhu-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LucidFusion: Reconstructing 3D Gaussians with Arbitrary Unposed Images</title>
+      <link>http://localhost:1313/publication/2025-he-lucidfusion/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-he-lucidfusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTMamba&#43;&#43;: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders</title>
+      <link>http://localhost:1313/publication/2025-lin-mtmambaplus/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-lin-mtmambaplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MantraNet: Label Name is Mantra: Unifying Point Cloud Segmentation across Heterogeneous Datasets</title>
+      <link>http://localhost:1313/publication/2024-liang-mantranet/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-liang-mantranet/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Ref-NeuS: Ambiguity-Reduced Neural Implicit Surface Learning for Multi-View Reconstruction with Reflection</title>
@@ -45,10 +93,10 @@
     </item>
     
     <item>
-      <title>Label Name is Mantra: Unifying Point Cloud Segmentation across Heterogeneous Datasets</title>
-      <link>http://localhost:1313/publication/2023-liang-label/</link>
-      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-liang-label/</guid>
+      <title>CP-NeRF: Conditionally Parameterized Neural Radiance Fields for Cross-scene Novel View Synthesis</title>
+      <link>http://localhost:1313/publication/2023-he-cpnerf/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-he-cpnerf/</guid>
       <description></description>
     </item>
     

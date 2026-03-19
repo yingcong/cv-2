@@ -10,6 +10,46 @@
     <lastmod>2030-06-01T13:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication_types/1/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2026-chen-tivibench/</loc>
+    <lastmod>2026-02-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/2/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2026-lin-dualbalancing/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2026-zhou-trexomni/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2026-xu-unicalli/</loc>
+    <lastmod>2026-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication_types/3/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-chen-stance/</loc>
+    <lastmod>2025-10-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/post/</loc>
     <lastmod>2025-03-13T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -30,11 +70,11 @@
     <lastmod>2025-01-09T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/1/</loc>
+    <loc>http://localhost:1313/publication/2025-fu-copainter/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/3/</loc>
+    <loc>http://localhost:1313/publication/2025-guo-comfymind/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -42,7 +82,31 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication/2025-zhou-divpro/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-lu-drivingrecon/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-chen-eventguided/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-xu-exgen/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-xu-gaussianproperty/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/2025-lin-kiss3dgen/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-zhu-large/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -50,11 +114,35 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
+    <loc>http://localhost:1313/publication/2025-he-lucidfusion/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-wang-motion/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-lin-mtmambaplus/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-zhang-orchestrating/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-lin-parm/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
     <loc>http://localhost:1313/publication/2025-chen-posta/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/</loc>
+    <loc>http://localhost:1313/publication/2025-xu-pregenie/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-ge-prm/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -62,7 +150,23 @@
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/</loc>
+    <loc>http://localhost:1313/publication/2025-lu-rhythmguassian/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-hua-sat2city/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-shen-scene/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-yang-seedstory/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-li-streamgs/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -71,6 +175,10 @@
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/2025-wang-transpixeler/</loc>
+    <lastmod>2025-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2025-ge-uniir/</loc>
     <lastmod>2025-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
@@ -88,6 +196,10 @@
   </url><url>
     <loc>http://localhost:1313/demos/lotus-normal/</loc>
     <lastmod>2024-12-04T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2024-li-omnibooth/</loc>
+    <lastmod>2024-10-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/2024-tang-incremental/</loc>
@@ -172,6 +284,14 @@
   </url><url>
     <loc>http://localhost:1313/post/2024-gzdaily/</loc>
     <lastmod>2024-03-14T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2024-li-adv3d/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
+    <changefreq>weekly</changefreq>
+  </url><url>
+    <loc>http://localhost:1313/publication/2024-liang-mantranet/</loc>
+    <lastmod>2024-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/tags/3d-vision/</loc>
@@ -282,10 +402,6 @@
     <lastmod>2023-10-04T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication_types/2/</loc>
-    <lastmod>2023-06-20T03:08:22+08:00</lastmod>
-    <changefreq>weekly</changefreq>
-  </url><url>
     <loc>http://localhost:1313/publication/2023-ge-refneus/</loc>
     <lastmod>2023-06-20T03:08:22+08:00</lastmod>
     <changefreq>weekly</changefreq>
@@ -342,8 +458,8 @@
     <lastmod>2023-04-03T15:21:56+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
-    <loc>http://localhost:1313/publication/2023-liang-label/</loc>
-    <lastmod>2023-03-19T11:07:49+08:00</lastmod>
+    <loc>http://localhost:1313/publication/2023-he-cpnerf/</loc>
+    <lastmod>2023-01-01T00:00:00+00:00</lastmod>
     <changefreq>weekly</changefreq>
   </url><url>
     <loc>http://localhost:1313/publication/2022-yang-parkinson/</loc>

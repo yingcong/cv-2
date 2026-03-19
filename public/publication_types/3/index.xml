@@ -5,18 +5,34 @@
     <link>http://localhost:1313/publication_types/3/</link>
       <atom:link href="http://localhost:1313/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Oct 2025 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>3</title>
       <link>http://localhost:1313/publication_types/3/</link>
     </image>
+    
+    <item>
+      <title>STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding</title>
+      <link>http://localhost:1313/publication/2025-chen-stance/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-chen-stance/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>RectifiedHR: Enable Efficient High-Resolution Image Generation via Energy Rectification</title>
       <link>http://localhost:1313/publication/2025-yang-rectifiedhr/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2025-yang-rectifiedhr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction</title>
+      <link>http://localhost:1313/publication/2024-li-omnibooth/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-li-omnibooth/</guid>
       <description></description>
     </item>
     

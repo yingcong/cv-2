@@ -5,18 +5,114 @@
     <link>http://localhost:1313/publication/</link>
       <atom:link href="http://localhost:1313/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Selected Publications</description>
-    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Feb 2026 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/icon_hu7729264130191091259.png</url>
+      <url>http://localhost:1313/media/icon_hu68170e94a17a2a43d6dcb45cf0e8e589_3079_512x512_fill_lanczos_center_3.png</url>
       <title>Selected Publications</title>
       <link>http://localhost:1313/publication/</link>
     </image>
+    
+    <item>
+      <title>TiViBench: Benchmarking Think-in-Video Reasoning for Video Generative Models</title>
+      <link>http://localhost:1313/publication/2026-chen-tivibench/</link>
+      <pubDate>Sun, 01 Feb 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2026-chen-tivibench/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Dual-balancing for multi-task learning</title>
+      <link>http://localhost:1313/publication/2026-lin-dualbalancing/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2026-lin-dualbalancing/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>T-Rex-Omni: Integrating Negative Visual Prompt in Generic Object Detection</title>
+      <link>http://localhost:1313/publication/2026-zhou-trexomni/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2026-zhou-trexomni/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>UniCalli: A Unified Diffusion Framework for Column-Level Generation and Recognition of Chinese Calligraphy</title>
+      <link>http://localhost:1313/publication/2026-xu-unicalli/</link>
+      <pubDate>Thu, 01 Jan 2026 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2026-xu-unicalli/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>STANCE: Motion Coherent Video Generation Via Sparse-to-Dense Anchored Encoding</title>
+      <link>http://localhost:1313/publication/2025-chen-stance/</link>
+      <pubDate>Wed, 01 Oct 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-chen-stance/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Co-Painter: Fine-Grained Controllable Image Stylization via Implicit Decoupling and Adaptive Injection</title>
+      <link>http://localhost:1313/publication/2025-fu-copainter/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-fu-copainter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ComfyMind: Toward General-Purpose Generation via Tree-Based Planning and Reactive Feedback</title>
+      <link>http://localhost:1313/publication/2025-guo-comfymind/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-guo-comfymind/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>DisEnvisioner: Disentangled and Enriched Visual Prompt for Customized Image Generation</title>
       <link>http://localhost:1313/publication/2025-he-disenvisioner/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2025-he-disenvisioner/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DivPro: diverse protein sequence design with direct structure recovery guidance</title>
+      <link>http://localhost:1313/publication/2025-zhou-divpro/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-zhou-divpro/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>DrivingRecon: Large 4D Gaussian Reconstruction Model For Autonomous Driving</title>
+      <link>http://localhost:1313/publication/2025-lu-drivingrecon/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-lu-drivingrecon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Event-Guided Consistent Video Enhancement with Modality-Adaptive Diffusion Pipeline</title>
+      <link>http://localhost:1313/publication/2025-chen-eventguided/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-chen-eventguided/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>exGen: Flexible Multi-View Generation from Text and Image Inputs</title>
+      <link>http://localhost:1313/publication/2025-xu-exgen/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-xu-exgen/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>GaussianProperty: Integrating Physical Properties to 3D Gaussians with LMMs</title>
+      <link>http://localhost:1313/publication/2025-xu-gaussianproperty/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-xu-gaussianproperty/</guid>
       <description></description>
     </item>
     
@@ -29,10 +125,58 @@
     </item>
     
     <item>
+      <title>Large Language Models for Transforming Healthcare: A Perspective on DeepSeek‐R1</title>
+      <link>http://localhost:1313/publication/2025-zhu-large/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-zhu-large/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Lotus: Diffusion-based visual foundation model for high-quality dense prediction</title>
       <link>http://localhost:1313/publication/2025-he-lotus/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2025-he-lotus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>LucidFusion: Reconstructing 3D Gaussians with Arbitrary Unposed Images</title>
+      <link>http://localhost:1313/publication/2025-he-lucidfusion/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-he-lucidfusion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Motion inversion for video customization</title>
+      <link>http://localhost:1313/publication/2025-wang-motion/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-wang-motion/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MTMamba&#43;&#43;: Enhancing Multi-Task Dense Scene Understanding via Mamba-Based Decoders</title>
+      <link>http://localhost:1313/publication/2025-lin-mtmambaplus/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-lin-mtmambaplus/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Orchestrating Audio: Multi-Agent Framework for Long-Video Audio Synthesis</title>
+      <link>http://localhost:1313/publication/2025-zhang-orchestrating/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-zhang-orchestrating/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PARM: Multi-Objective Test-Time Alignment via Preference-Aware Autoregressive Reward Model</title>
+      <link>http://localhost:1313/publication/2025-lin-parm/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-lin-parm/</guid>
       <description></description>
     </item>
     
@@ -45,10 +189,66 @@
     </item>
     
     <item>
+      <title>PreGenie: An Agentic Framework for High-quality Visual Presentation Generation</title>
+      <link>http://localhost:1313/publication/2025-xu-pregenie/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-xu-pregenie/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PRM: Photometric Stereo based Large Reconstruction Model</title>
+      <link>http://localhost:1313/publication/2025-ge-prm/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ge-prm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>RectifiedHR: Enable Efficient High-Resolution Image Generation via Energy Rectification</title>
       <link>http://localhost:1313/publication/2025-yang-rectifiedhr/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2025-yang-rectifiedhr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RhythmGuassian: Repurposing Generalizable Gaussian Model For Remote Physiological Measurement</title>
+      <link>http://localhost:1313/publication/2025-lu-rhythmguassian/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-lu-rhythmguassian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sat2City: 3D City Generation from A Single Satellite Image with Cascaded Latent Diffusion</title>
+      <link>http://localhost:1313/publication/2025-hua-sat2city/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-hua-sat2city/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Scene Graph Guided Generation: Enable Accurate Relations Generation in Text-to-Image Models via Textural Rectification</title>
+      <link>http://localhost:1313/publication/2025-shen-scene/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-shen-scene/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEED-Story: Multimodal Long Story Generation with Large Language Model</title>
+      <link>http://localhost:1313/publication/2025-yang-seedstory/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-yang-seedstory/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>StreamGS: Online Generalizable Gaussian Splatting Reconstruction for Unposed Image Streams</title>
+      <link>http://localhost:1313/publication/2025-li-streamgs/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-li-streamgs/</guid>
       <description></description>
     </item>
     
@@ -69,10 +269,26 @@
     </item>
     
     <item>
+      <title>Uni-IR: One Stage is Enough for Ambiguity-Reduced Inverse Rendering</title>
+      <link>http://localhost:1313/publication/2025-ge-uniir/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2025-ge-uniir/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Uni-Renderer: Unifying Rendering and Inverse Rendering Via Dual Stream Diffusion</title>
       <link>http://localhost:1313/publication/2025-chen-unirenderer/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/publication/2025-chen-unirenderer/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>OmniBooth: Learning Latent Control for Image Synthesis with Multi-modal Instruction</title>
+      <link>http://localhost:1313/publication/2024-li-omnibooth/</link>
+      <pubDate>Tue, 01 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-li-omnibooth/</guid>
       <description></description>
     </item>
     
@@ -173,6 +389,22 @@
     </item>
     
     <item>
+      <title>Adv3D: Generating 3D Adversarial Examples for 3D Object Detection in Driving Scenarios with NeRF</title>
+      <link>http://localhost:1313/publication/2024-li-adv3d/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-li-adv3d/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MantraNet: Label Name is Mantra: Unifying Point Cloud Segmentation across Heterogeneous Datasets</title>
+      <link>http://localhost:1313/publication/2024-liang-mantranet/</link>
+      <pubDate>Mon, 01 Jan 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2024-liang-mantranet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Rethinking Rendering in Generalizable Neural Surface Reconstruction: A Learning-based Solution</title>
       <link>http://localhost:1313/publication/2023-liang-retr/</link>
       <pubDate>Fri, 10 Nov 2023 00:00:00 +0000</pubDate>
@@ -229,10 +461,10 @@
     </item>
     
     <item>
-      <title>Label Name is Mantra: Unifying Point Cloud Segmentation across Heterogeneous Datasets</title>
-      <link>http://localhost:1313/publication/2023-liang-label/</link>
-      <pubDate>Sun, 19 Mar 2023 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/publication/2023-liang-label/</guid>
+      <title>CP-NeRF: Conditionally Parameterized Neural Radiance Fields for Cross-scene Novel View Synthesis</title>
+      <link>http://localhost:1313/publication/2023-he-cpnerf/</link>
+      <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/publication/2023-he-cpnerf/</guid>
       <description></description>
     </item>
     

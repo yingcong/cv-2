@@ -17,5 +17,7 @@ publication_types:
   - '1'
 abstract: ''
 featured: false
-publication: '*International Conference on Learning Representations*'
+publication: '*International Conference on Learning Representations (ICLR), 2025*'
+url_project: 'https://lotus-fdm.github.io/'
+url_code: 'https://github.com/EnVision-Research/Lotus'
 ---
