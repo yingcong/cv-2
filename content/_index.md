@@ -31,13 +31,6 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    content:
-      title: '📚 My Research'
-      subtitle: ''
-      text: "My research focuses on **visual generative models**, exploring their fundamental principles with the aim of improving their quality, efficiency, diversity, and controllability. Beyond foundational research, I am dedicated to applying these models to solve real-world challenges in sectors such as autonomous driving, smart manufacturing, and content creation. My overarching goal is to advance the field of generative models by tackling sophisticated real-world challenges, thereby pushing the boundaries of academic research in different disciplines. Please find the collection of our open-source code at https://github.com/EnVision-Research. "
-    design:
-      columns: '1'
-  - block: markdown
     id: prospective-students
     content:
       title: 'Prospective Students'
