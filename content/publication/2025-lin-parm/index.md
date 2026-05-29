@@ -14,5 +14,5 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*Proceedings of the International Conference on Machine Learning (ICML)*'
-url_code: 'https://github.com/EnVision-Research/PARM'
+url_code: 'https://github.com/Baijiong-Lin/PARM'
 ---

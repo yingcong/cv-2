@@ -14,5 +14,4 @@ publication_types:
 abstract: ''
 featured: true
 publication: '*Computer Graphics Forum (Pacific Graphics)*'
-url_code: 'https://github.com/YixunLiang/MantraNet'
 ---

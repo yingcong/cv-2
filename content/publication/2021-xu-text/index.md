@@ -47,7 +47,7 @@ featured: false
 #   url: http://example.org
 
 # url_pdf: 'publication/xu2021text/xu2021text.pdf'
-url_code: ''
+url_code: 'https://github.com/xiaogang00/Text-Human-Image-Manipulation'
 url_dataset: ''
 url_poster: ''
 url_project: ''

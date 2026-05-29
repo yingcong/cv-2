@@ -50,7 +50,7 @@ featured: false
 #   url: http://example.org
 
 # url_pdf: 'publication/qi2021pointins/2021-qi-pointins.pdf'
-url_code: 'https://github.com/qqlu/PointINS'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
