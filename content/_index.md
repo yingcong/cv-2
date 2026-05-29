@@ -37,6 +37,21 @@ sections:
       text: "My research focuses on **visual generative models**, exploring their fundamental principles with the aim of improving their quality, efficiency, diversity, and controllability. Beyond foundational research, I am dedicated to applying these models to solve real-world challenges in sectors such as autonomous driving, smart manufacturing, and content creation. My overarching goal is to advance the field of generative models by tackling sophisticated real-world challenges, thereby pushing the boundaries of academic research in different disciplines. Please find the collection of our open-source code at https://github.com/EnVision-Research. "
     design:
       columns: '1'
+  - block: markdown
+    id: prospective-students
+    content:
+      title: 'Prospective Students'
+      subtitle: ''
+      text: |-
+        My current research is increasingly focused on AI systems grounded in real-world deployment, real data, and long-term data flywheels. I am especially interested in problems that cannot be solved by simply following existing papers, benchmarks, or publication-driven templates.
+
+        I am looking for students who are willing to work on uncertain, long-horizon problems, care about real-world impact and durable technical value, and can stay focused without being driven solely by short-term metrics such as paper counts, internships, or resume building.
+
+        If you are primarily looking for a conventional publication-driven PhD path, frequent industry internships, or short-term career optimization, my group may not be the best fit. If you resonate with this direction, please read my full advising statement before reaching out.
+
+        <a href="/prospective-students/">Read the full advising statement</a>
+    design:
+      columns: '1'
   # - block: collection
   #   id: papers
   #   content:
