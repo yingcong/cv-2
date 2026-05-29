@@ -1,22 +1,21 @@
 ---
-title: 'RectifiedHR: Enable Efficient High-Resolution Image Generation via Energy Rectification'
-date: '2025-01-01'
+title: 'RectifiedHR: Enable Efficient High-Resolution Synthesis via Energy Rectification'
+date: '2026-01-01'
 draft: false
-publishDate: '2025-03-01T00:00:00Z'
+publishDate: '2026-01-01T00:00:00Z'
 authors:
   - Zhen Yang
   - Guibao Shen
+  - Minyang Li
   - Liang Hou
   - Mushui Liu
   - Luozhou Wang
   - Xin Tao
-  - Pengfei Wan
-  - Di Zhang
   - admin
 publication_types:
-  - '3'
+  - '1'
 abstract: ''
 featured: false
-publication: '*arXiv preprint arXiv:2503.02537*'
+publication: '*Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Findings*'
 url_code: 'https://github.com/EnVision-Research/RectifiedHR'
 ---
