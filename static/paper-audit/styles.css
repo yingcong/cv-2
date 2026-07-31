@@ -471,6 +471,17 @@ h3 {
   color: var(--muted);
 }
 
+.invitation .internal-note {
+  margin-top: 28px;
+  padding-top: 28px;
+  color: var(--ink);
+  border-top: 1px solid var(--line);
+}
+
+.internal-note strong {
+  font-weight: 800;
+}
+
 .invitation-status {
   display: inline-flex;
   margin-top: 26px;

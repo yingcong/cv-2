@@ -91,3 +91,9 @@ test("the page explains the email-only submission and delivery flow", () => {
   assert.match(page, /Start a new email thread with one manuscript PDF or one public paper link\./);
   assert.match(page, /delivered back to your inbox\./);
 });
+
+test("the page limits access and use to an invited researcher's own papers", () => {
+  assert.match(page, /Please do not share your invitation or access/);
+  assert.match(page, /do not use it to review other researchers’ papers/);
+  assert.match(page, /manuscripts you authored or co-authored/);
+});
