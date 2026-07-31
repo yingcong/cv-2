@@ -7,6 +7,10 @@ const source = readFileSync(
   new URL("../static/paper-audit/app.js", import.meta.url),
   "utf8",
 );
+const page = readFileSync(
+  new URL("../static/paper-audit/index.html", import.meta.url),
+  "utf8",
+);
 
 function fixture(hash) {
   const elements = {
@@ -80,4 +84,10 @@ test("malformed invitation fragments remain public-only", () => {
   const { elements } = fixture("#invite=%3Cscript%3Ealert(1)%3C/script%3E");
   assert.equal(elements.registration.hidden, true);
   assert.equal(elements["public-invitation-status"].textContent, "Access is currently by invitation.");
+});
+
+test("the page explains the email-only submission and delivery flow", () => {
+  assert.match(page, /The whole exchange happens in your inbox\./);
+  assert.match(page, /Start a new email thread with one manuscript PDF or one public paper link\./);
+  assert.match(page, /delivered back to your inbox\./);
 });

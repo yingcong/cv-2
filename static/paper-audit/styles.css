@@ -385,6 +385,34 @@ h3 {
   font: 800 0.7rem/1 var(--sans);
 }
 
+.flow-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.flow-grid li {
+  min-height: 270px;
+  padding: 30px;
+  background: rgba(125, 155, 131, 0.1);
+  border: 1px solid var(--line);
+}
+
+.flow-grid p {
+  color: var(--muted);
+}
+
+.flow-number {
+  display: block;
+  margin-bottom: 78px;
+  color: var(--coral);
+  font-size: 0.7rem;
+  font-weight: 800;
+}
+
 .credibility {
   display: grid;
   grid-template-columns: 0.68fr 1.32fr;
@@ -550,8 +578,17 @@ footer a {
   .hero,
   .section-heading,
   .credibility,
-  .registration {
+  .registration,
+  .flow-grid {
     grid-template-columns: 1fr;
+  }
+
+  .flow-grid li {
+    min-height: 220px;
+  }
+
+  .flow-number {
+    margin-bottom: 50px;
   }
 
   .hero {
