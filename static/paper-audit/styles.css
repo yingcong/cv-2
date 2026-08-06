@@ -15,11 +15,13 @@
 }
 
 html {
+  overflow-x: hidden;
   scroll-behavior: smooth;
 }
 
 body {
   margin: 0;
+  overflow-x: hidden;
   color: var(--ink);
   background:
     radial-gradient(circle at 82% 8%, rgba(223, 108, 82, 0.13), transparent 27rem),
@@ -452,6 +454,86 @@ h3 {
   font: 800 0.7rem/1 var(--sans);
 }
 
+.reframe-grid {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  gap: 16px;
+}
+
+.reframe-card {
+  min-height: 280px;
+  padding: 32px;
+  background: linear-gradient(145deg, rgba(125, 155, 131, 0.18), rgba(251, 248, 240, 0.9));
+  border: 1px solid var(--line);
+}
+
+.reframe-card-lead {
+  grid-row: span 2;
+  min-height: 576px;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  color: var(--paper-light);
+  background:
+    radial-gradient(circle at 20% 18%, rgba(223, 108, 82, 0.38), transparent 18rem),
+    var(--ink);
+}
+
+.reframe-card .card-number {
+  margin-bottom: auto;
+}
+
+.reframe-card-lead .card-number {
+  color: #f09a82;
+}
+
+.reframe-card h3 {
+  font-family: var(--display);
+  font-size: clamp(1.8rem, 3vw, 2.8rem);
+  font-weight: 500;
+  letter-spacing: -0.03em;
+}
+
+.reframe-card p {
+  max-width: 570px;
+  margin-bottom: 0;
+  color: var(--muted);
+}
+
+.reframe-card-lead p {
+  color: rgba(251, 248, 240, 0.72);
+}
+
+.reframe-delivery {
+  display: grid;
+  grid-template-columns: 0.38fr 1fr 1.2fr;
+  gap: 30px;
+  align-items: start;
+  margin-top: 16px;
+  padding: 30px 32px;
+  background: rgba(251, 248, 240, 0.72);
+  border: 1px solid var(--line);
+}
+
+.reframe-delivery .eyebrow,
+.reframe-delivery p {
+  margin-bottom: 0;
+}
+
+.reframe-delivery .mode-note {
+  color: var(--muted);
+  font-size: 0.92rem;
+}
+
+code {
+  padding: 0.12em 0.35em;
+  color: var(--ink);
+  background: rgba(223, 108, 82, 0.12);
+  border: 1px solid rgba(223, 108, 82, 0.22);
+  font-size: 0.86em;
+  white-space: nowrap;
+}
+
 .flow-grid {
   position: relative;
   display: grid;
@@ -712,7 +794,8 @@ footer a {
   .section-heading,
   .credibility,
   .registration,
-  .flow-grid {
+  .flow-grid,
+  .reframe-delivery {
     grid-template-columns: 1fr;
   }
 
@@ -820,8 +903,14 @@ footer a {
   }
 
   .outcome-grid,
+  .reframe-grid,
   .form-row {
     grid-template-columns: 1fr;
+  }
+
+  .reframe-card-lead {
+    grid-row: auto;
+    min-height: 440px;
   }
 
   .outcome-card-wide {
