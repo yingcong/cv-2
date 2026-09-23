@@ -87,19 +87,13 @@ test("malformed invitation fragments remain public-only", () => {
 });
 
 test("the page explains the email-only submission and delivery flow", () => {
-  assert.match(page, /Choose the kind of second look you need\./);
+  assert.match(page, /A review in three steps\./);
   assert.match(page, /Start a new thread with one manuscript PDF or public paper link\./);
   assert.match(page, /delivered back to your inbox\./);
 });
 
-test("the page explains the Reframe service and how to request it", () => {
-  assert.match(page, /When the framing itself is the question\./);
-  assert.match(page, /Framing Memo/);
-  assert.match(page, /Research Plan/);
-  assert.match(page, /\[Reframe\]/);
-  assert.match(page, /Mode: bounded/);
-  assert.match(page, /no-new-experiments/);
-  assert.match(page, /<code>open<\/code>/);
+test("the page contains no Reframe promotion or instructions", () => {
+  assert.doesNotMatch(page, /reframe|framing memo|mode: bounded/i);
 });
 
 test("the page limits access and use to an invited researcher's own papers", () => {
