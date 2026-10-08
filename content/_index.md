@@ -31,28 +31,6 @@ sections:
           position: center
           parallax: false
   - block: markdown
-    id: honors
-    content:
-      title: 'Honors & Recognition'
-      subtitle: ''
-      text: |-
-        <ul>
-        <li><a href="https://www.ccf.org.cn/YOCSEF/hdjh/lt/2024-11-22/834871.shtml">National Youth Talent Program (Overseas)</a></li>
-        <li><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9">Stanford/Elsevier World’s Top 2% Scientists</a></li>
-        <li><a href="https://www.ccf.org.cn/YOCSEF/hdjh/lt/2024-11-22/834871.shtml">First Prize, CSIG Natural Science Award</a></li>
-        <li><a href="https://cse.hkust.edu.hk/News/UbiComp_ISWC2025/">ACM IMWUT Distinguished Paper Award</a> (co-author, WaveBP)</li>
-        <li><a href="https://www.yingcong.me/post/2023-ref-neus/">ICCV Best Paper Award Nominee</a> (Ref-NeuS)</li>
-        <li><a href="https://arxiv.org/html/2608.04589v1#S3">CVPR EgoCross Challenge</a>: First Place in both Source-Limited and Open-Source tracks (faculty mentor, DomainWiseInfer)</li>
-        <li><a href="https://www.yingcong.me/post/2024-icra/">ICRA RoboDrive Challenge</a>: First Place, Track 1: Robust BEV Detection (team award)</li>
-        <li><a href="https://infh.hkust-gz.edu.cn/blog/2026/07/20/信息枢纽科研卓越奖-教学卓越奖获奖名单/">HKUST(GZ) Information Hub Faculty Research Excellence Award</a>: Second Prize (joint)</li>
-        <li><a href="https://www.ccf.org.cn/Media_list/YEF/2026-05-19/896293.shtml">Guangdong Association of Artificial Intelligence Science Progress Award</a>（广东省人工智能学会科学进步奖）</li>
-        <li><a href="https://www.ccf.org.cn/Media_list/YEF/2026-05-19/896293.shtml">Guangdong Industrial Software Science and Technology Award</a>（广东省工业软件科学技术奖）</li>
-        <li><a href="https://www.ccf.org.cn/Chapters/Local_Activities/Chapter_News/2021-10-12/745143.shtml">First Prize, Second Guangdong Computer Science Young Scholars Academic Showcase</a> (CCF; 广东省第二届计算机青年学者学术秀)</li>
-        <li><a href="https://personal.hkust-gz.edu.cn/hedengbo/assets/publicationPDFs/Wang_IEEE_JBHI_2024a.pdf">Hong Kong PhD Fellowship</a></li>
-        </ul>
-    design:
-      columns: '1'
-  - block: markdown
     id: prospective-students
     content:
       title: 'Prospective Students'
@@ -120,6 +98,29 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  - block: markdown
+    id: honors
+    content:
+      title: 'Honors & Recognition'
+      subtitle: ''
+      text: |-
+        <ul>
+        <li><a href="https://www.ccf.org.cn/YOCSEF/hdjh/lt/2024-11-22/834871.shtml">National Youth Talent Program (Overseas)</a></li>
+        <li><a href="https://elsevier.digitalcommonsdata.com/datasets/btchxktzyw/9">Stanford/Elsevier World’s Top 2% Scientists</a></li>
+        <li><a href="https://www.ccf.org.cn/YOCSEF/hdjh/lt/2024-11-22/834871.shtml">First Prize, CSIG Natural Science Award</a></li>
+        <li><a href="https://cse.hkust.edu.hk/News/UbiComp_ISWC2025/">ACM IMWUT Distinguished Paper Award</a> (co-author, WaveBP)</li>
+        <li><a href="https://www.yingcong.me/post/2023-ref-neus/">ICCV Best Paper Award Nominee</a> (Ref-NeuS)</li>
+        <li><a href="https://arxiv.org/html/2608.04589v1#S3">CVPR EgoCross Challenge</a>: First Place in both Source-Limited and Open-Source tracks (faculty mentor, DomainWiseInfer)</li>
+        <li><a href="https://www.yingcong.me/post/2024-icra/">ICRA RoboDrive Challenge</a>: First Place, Track 1: Robust BEV Detection (team award)</li>
+        <li><a href="https://infh.hkust-gz.edu.cn/blog/2026/07/20/信息枢纽科研卓越奖-教学卓越奖获奖名单/">HKUST(GZ) Information Hub Faculty Research Excellence Award</a>: Second Prize (joint)</li>
+        <li><a href="https://www.ccf.org.cn/Media_list/YEF/2026-05-19/896293.shtml">Guangdong Association of Artificial Intelligence Science Progress Award</a>（广东省人工智能学会科学进步奖）</li>
+        <li><a href="https://www.ccf.org.cn/Media_list/YEF/2026-05-19/896293.shtml">Guangdong Industrial Software Science and Technology Award</a>（广东省工业软件科学技术奖）</li>
+        <li><a href="https://www.ccf.org.cn/Chapters/Local_Activities/Chapter_News/2021-10-12/745143.shtml">First Prize, Second Guangdong Computer Science Young Scholars Academic Showcase</a> (CCF; 广东省第二届计算机青年学者学术秀)</li>
+        <li><a href="https://personal.hkust-gz.edu.cn/hedengbo/assets/publicationPDFs/Wang_IEEE_JBHI_2024a.pdf">Hong Kong PhD Fellowship</a></li>
+        </ul>
+    design:
+      columns: '1'
 
   # - block: collection
   #   id: demo
