@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "New work accepted to NeurIPS 2026"
 summary: "Recent work on 3D generation, video generation, depth estimation, and autonomous driving has been accepted to NeurIPS 2026."
 date: 2026-09-24

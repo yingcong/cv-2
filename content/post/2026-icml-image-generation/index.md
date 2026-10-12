@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "Image generation research at ICML 2026"
 summary: "Our work on autoregressive image generation and latent reasoning appears at ICML 2026."
 date: 2026-07-06

@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "STANCE published in ECCV 2026 proceedings"
 summary: "STANCE, our work on controllable video generation for structured dynamics, is now published in the ECCV 2026 proceedings."
 date: 2026-10-02

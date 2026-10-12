@@ -1,4 +1,5 @@
 ---
+draft: true
 title: "WorldAlign: improving consistency in video generation"
 summary: "We introduce WorldAlign, a decoupled 4D reward framework for more consistent video generation."
 date: 2026-10-08
