@@ -1,5 +1,5 @@
 ---
 title: News
-view: article-grid
-count: 5
+view: date-title-summary
+count: 0
 ---
