@@ -16,7 +16,7 @@ publication_types:
 - '1'
 abstract: ''
 featured: false
-publication: '*EMNLP 2026 (Main Conference; accepted, author-confirmed)*'
+publication: '*EMNLP 2026 (Main Conference)*'
 url_pdf: https://arxiv.org/pdf/2606.05158
 url_project: https://zhenyangcs.github.io/StreamMA-website/
 links:

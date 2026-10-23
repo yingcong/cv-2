@@ -23,7 +23,7 @@ publication_types:
 - '1'
 abstract: ''
 featured: false
-publication: '*IROS 2026 (accepted, author-confirmed)*'
+publication: '*IROS 2026*'
 url_pdf: https://arxiv.org/pdf/2603.22280
 url_project: https://livfour.github.io/DualCoT-VLA/
 links:

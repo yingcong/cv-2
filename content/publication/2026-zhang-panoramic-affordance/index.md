@@ -23,7 +23,7 @@ publication_types:
 - '1'
 abstract: ''
 featured: false
-publication: '*ECCV 2026 (accepted)*'
+publication: '*ECCV 2026*'
 url_pdf: https://arxiv.org/pdf/2603.15558
 url_code: https://github.com/EnVision-Research/PAP
 url_project: https://zixinzhang02.github.io/Panoramic-Affordance-Prediction/

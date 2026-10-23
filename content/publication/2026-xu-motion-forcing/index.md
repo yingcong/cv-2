@@ -18,7 +18,7 @@ publication_types:
 - '1'
 abstract: ''
 featured: false
-publication: '*NeurIPS 2026 (accepted)*'
+publication: '*NeurIPS 2026*'
 url_pdf: https://arxiv.org/pdf/2603.10408
 url_code: https://github.com/Tianshuo-Xu/Motion-Forcing
 links:

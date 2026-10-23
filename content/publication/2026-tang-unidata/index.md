@@ -25,7 +25,7 @@ publication_types:
 - '1'
 abstract: ''
 featured: false
-publication: '*Findings of EMNLP 2026 (accepted)*'
+publication: '*Findings of EMNLP 2026*'
 url_pdf: https://arxiv.org/pdf/2610.11363
 links:
 - name: arXiv

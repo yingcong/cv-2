@@ -18,7 +18,7 @@ publication_types:
 - '1'
 abstract: ''
 featured: false
-publication: '*NeurIPS 2026 (accepted)*'
+publication: '*NeurIPS 2026*'
 url_pdf: https://arxiv.org/pdf/2609.36918
 links:
 - name: arXiv
