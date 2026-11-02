@@ -1,6 +1,5 @@
 ---
-# Public metadata verified on 2026-10-05 from https://zhenyangcs.github.io/, https://xuxiaogang.com/publications.html.
-# Public author-confirmed acceptance. No DOI, page range, or published proceedings claim. Existing URL, title, date, and author order retained.
+# Formal metadata verified from https://aclanthology.org/2026.emnlp-main.244/ on 2026-11-02.
 title: Streaming Communication in Multi-Agent Reasoning
 date: '2026-06-03'
 draft: false
@@ -17,11 +16,12 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*EMNLP 2026 (Main Conference)*'
-url_pdf: https://arxiv.org/pdf/2606.05158
+doi: 10.18653/2026.emnlp-main.244
+url_pdf: https://aclanthology.org/2026.emnlp-main.244.pdf
 url_project: https://zhenyangcs.github.io/StreamMA-website/
 links:
+- name: ACL Anthology
+  url: https://aclanthology.org/2026.emnlp-main.244/
 - name: arXiv
   url: https://arxiv.org/abs/2606.05158
-- name: Acceptance (author)
-  url: https://zhenyangcs.github.io/
 ---

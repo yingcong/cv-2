@@ -1,5 +1,5 @@
 ---
-# Metadata verified from https://arxiv.org/abs/2606.02388 on 2026-09-30.
+# Formal metadata verified from https://aclanthology.org/2026.emnlp-main.1885/ on 2026-11-02.
 title: Policy and World Modeling Co-Training for Language Agents
 date: '2026-06-01'
 draft: false
@@ -22,8 +22,11 @@ publication_types:
 abstract: ''
 featured: false
 publication: '*EMNLP 2026 (main)*'
-url_pdf: https://arxiv.org/pdf/2606.02388
+doi: 10.18653/2026.emnlp-main.1885
+url_pdf: https://aclanthology.org/2026.emnlp-main.1885.pdf
 links:
+- name: ACL Anthology
+  url: https://aclanthology.org/2026.emnlp-main.1885/
 - name: arXiv
   url: https://arxiv.org/abs/2606.02388
 ---
